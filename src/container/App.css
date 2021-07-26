@@ -1,0 +1,12 @@
+ @font-face {
+    font-family: 'Candy Shop Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Candy Shop Regular'), url('Candy Shop.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Candy Shop Regular';
+    font-weight: 350;
+    color: #0ccac4;
+}
